@@ -1,5 +1,5 @@
 # BeansAreOP-texture-pack
 
-copy and paste this link to download the file and follow the steps bellow https://www.mediafire.com/file/1r2am0en5q7t9bm/BEANS_pack.zip/file
+go to this link to download the file and follow the steps bellow https://www.mediafire.com/file/1r2am0en5q7t9bm/BEANS_pack.zip/file
 
 This texture pack is used for geometry dash to replace the whole entire resources file but here are some steps for you to download or put it in gd it first you download the file then go into the .zip file and copy the file named Beans Pack, then you go to steam and go to geometry dash, right click the name and go to manage and browse local files then you will see resources the next thing you want to do is replace the resources file with the texture pack and MAKE SURE you make a back up of the orignal or else you will loose it forever but if you dont know how to do that you just have to copy and paste it somewhere else then when you don't want the texture pack on anymore just take the copy and pasted old version and replace the texture pack simple and boom that is how you get the texture pack enjoy!
